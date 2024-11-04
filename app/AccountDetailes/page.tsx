@@ -382,7 +382,7 @@ const AccountDetails: React.FC = () => {
           <div className=" lg:w-[900px] sm:w-[600px] m-auto min-h-[200px] rounded-2xl">
               <div className="flex  py-10 justify-center lg:gap-20 gap-x-5 xs:flex-wrap sm:flex-nowrap xs:gap-y-5 sm:gap-y-0  px-10 items-center">
               <Image
-            src="/Images/MainImages/Popular/Untitled-1.png17.png"
+            src="/MainImages/Popular/Untitled-1.png17.png"
             alt="Description of the image"
             priority={true} 
             className="w-[150px] h-[150px] mt-10 rounded-2xl" 
@@ -403,7 +403,7 @@ const AccountDetails: React.FC = () => {
           <div className="  lg:w-[900px] sm:w-[600px] m-auto min-h-[200px]  rounded-2xl">
           <div className="flex  py-10 justify-center lg:gap-28 gap-x-[98px] xs:flex-wrap sm:flex-nowrap xs:gap-y-5 sm:gap-y-0  px-10 items-center">
           <Image
-            src="/Images/MainImages/Popular/Untitled-1.png11.png"
+            src="/MainImages/Popular/Untitled-1.png11.png"
             alt="Description of the image"
             priority={true} 
             className="w-[150px] h-[150px] mt-10 rounded-2xl"
@@ -436,7 +436,7 @@ const AccountDetails: React.FC = () => {
            <div className="  lg:w-[900px] sm:w-[600px] m-auto min-h-[200px]  rounded-2xl">
                <div className="flex  py-10 justify-center lg:gap-20 gap-x-5 xs:flex-wrap sm:flex-nowrap xs:gap-y-5 sm:gap-y-0  px-10 items-center">
                <Image
-            src="/Images/MainImages/Popular/Untitled-1.png1.png"
+            src="/MainImages/Popular/Untitled-1.png1.png"
             alt="Description of the image"
             priority={true} 
             className="w-[150px] h-[150px] mt-10 rounded-2xl"
@@ -457,7 +457,7 @@ const AccountDetails: React.FC = () => {
            <div className="  lg:w-[900px] sm:w-[600px] m-auto min-h-[200px]  rounded-2xl">
            <div className="flex  py-10 justify-center lg:gap-20 gap-x-5 xs:flex-wrap sm:flex-nowrap xs:gap-y-5 sm:gap-y-0  px-10 items-center">
            <Image
-            src="/Images/MainImages/Popular/Untitled-1.png18.png"
+            src="/MainImages/Popular/Untitled-1.png18.png"
             alt="Description of the image"
             priority={true} 
            className="w-[150px] h-[150px] mt-10 rounded-2xl"
