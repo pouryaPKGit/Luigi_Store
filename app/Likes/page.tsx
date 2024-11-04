@@ -38,7 +38,7 @@ const Likes = () => {
       {likes.length === 0 ? (
         <div>
           <Image
-            src="/Images/Untitled-1.png21.png"
+            src="/Untitled-1.png21.png"
             alt="Description of the image"
             priority={true} // بهینه‌سازی بیشتر برای تصاویر بالای صفحه
             className="flex items-center justify-center sm:w-[300px] xs:w-[350px] m-auto"
