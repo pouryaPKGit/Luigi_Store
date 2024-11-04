@@ -3,13 +3,13 @@ import Banner from '@/components/Banner'
 import React from 'react'
 import OffersPage from "../components/OffersPage"
 import ProductsSlider from "../components/ProductsSlider"
-import MainBanners from "../components/MainBanners"
+
 import ProductBox from "../components/ProductBox"
 import MiddleBanners from "../components/MiddleBanners"
 import MainSlider from "../components/MainSlider"
 import Popular from "../components/Popular"
 import Services from "../components/Services"
-import Banner2 from "../components/Banner2"
+
 import { BsArrow90DegDown } from "react-icons/bs";
 import { useEffect } from 'react';
 import AOS from 'aos';
@@ -35,7 +35,7 @@ const page = () => {
       <OffersPage/>
       <ProductsSlider/>
    </div>
-   <MainBanners/>
+   
    <ProductBox/>
    <MiddleBanners/>
    <span className="lg:mr-12 mr-4 mt-16 text-md md:text-xl lg:text-2xl font-bold flex ">جدید ترین محصولات <BsArrow90DegDown className="mt-4 text-lg md:text-2xl font-bold mr-2" /></span>
@@ -44,7 +44,7 @@ const page = () => {
    </div>
     <Popular/>
     <Services/>
-   <Banner2/>
+   
     </div>
   )
 }
